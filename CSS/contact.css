@@ -27,3 +27,15 @@ label   {
     font-family: 'Bree Serif', serif;  
     font-size: large;
 }
+
+nav {
+    background-color: transparent;
+    text-decoration-color: black ;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.navbar-brand {
+    color: black;
+    font-size: xx-large;
+}

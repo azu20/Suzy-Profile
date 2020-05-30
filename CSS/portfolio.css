@@ -30,6 +30,18 @@ body {
   background-size: cover;
 }
 
+nav {
+  background-color: transparent;
+  text-decoration-color: black ;
+  font-size: x-large;
+  font-weight: 700;
+}
+
+.navbar-brand {
+  color: black;
+  font-size: xx-large;
+  font-weight: 700;
+}
 .img {
   border: 1px solid rgb(1, 78, 78);
   border-radius: 10px;
