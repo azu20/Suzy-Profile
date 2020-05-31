@@ -8,10 +8,10 @@ body {
 }
 
 h1  {
+    margin: 15px;
     font-family: 'Della Respira', serif;
-    font-size: 70px;
+    font-size: 75px;
     text-shadow: 2px 2px 4px grey;
-    color: black;
 }
 
 .Mepix {
