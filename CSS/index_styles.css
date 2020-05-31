@@ -7,7 +7,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-h1  {
+h1 {
     margin: 15px;
     font-family: 'Della Respira', serif;
     font-size: 75px;
@@ -20,21 +20,17 @@ h1  {
 
 img {
     border-radius: 50%;
-  }
+}
 
-p   {
-    /* font-family: 'Bree Serif', serif;   */
+p {
     font-size: large;
-    color:  black;
+    color: black;
     font-weight: 500;
 }
-/* a {
-    font-weight: 600;
-} */
 
 nav {
     background-color: transparent;
-    text-decoration-color: black ;
+    text-decoration-color: black;
     font-size: x-large;
     font-weight: 700;
 }
@@ -45,7 +41,6 @@ nav {
     font-weight: 700;
 }
 
-footer  {
+footer {
     color: black;
 }
-
