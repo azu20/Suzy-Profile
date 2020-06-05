@@ -20,6 +20,11 @@ h1 {
     text-shadow: 2px 2px 4px grey;
 }
 
+h4 {
+    color: purple;
+    font-weight: bolder;
+}
+
 body {
     background: url('https://www.brandhill.com/wp-content/uploads/2015/01/Brandhill-Web-Background.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
